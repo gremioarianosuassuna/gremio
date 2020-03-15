@@ -1,0 +1,15 @@
+body{margin: 4px; font-family: Arial, Helvetica, sans-serif;}
+
+.header{ background-color: #077033; padding: 35px; max-width: 100%; text-align: left; font-size: 30pt; font-weight: 800; color: #f7f7f7;}
+.subtitle{ font-size: 12pt; font-weight: 100;}
+
+label{ display: grid;}
+
+.bar{ max-width: 100%; background-color: #043b1b; font-size: 11pt;text-align: left; padding: 10px; color: white;padding-left: 35px;}
+.link-bar{ text-decoration: none; margin: 10px 5px; color: white;
+}.link-bar:hover{ text-decoration:underline;}
+
+.location{color: black; font-size: 9pt; padding-top: 10px;}
+.location a{text-decoration: none; color: rgb(0, 123, 206);}
+
+.content-columns{margin-top: 2px; display: flex; max-width: 100%; padding: 0px 35px 0px 35px;}
